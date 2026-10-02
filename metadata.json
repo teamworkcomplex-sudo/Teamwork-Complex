@@ -1,0 +1,6 @@
+{
+  "name": "Team Work Complex - Property Exchange Pakistan",
+  "description": "Comprehensive property registration, exchange matching, customer records management, and printable certificates across Pakistan.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
